@@ -1,0 +1,351 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\HotelManage\bin\HotelManage.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\HotelManage\bin\HotelManage.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\HotelManage\bin\BLL.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\HotelManage\bin\BLL.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\HotelManage\obj\Debug\HotelManage.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\HotelManage\obj\Debug\HotelManage.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\HotelManage\bin\DAL.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\HotelManage\bin\DAL.pdb
+H:\宾馆管理系统\HotelManage\HotelManage\bin\HotelManage.dll
+H:\宾馆管理系统\HotelManage\HotelManage\bin\HotelManage.pdb
+H:\宾馆管理系统\HotelManage\HotelManage\bin\BLL.dll
+H:\宾馆管理系统\HotelManage\HotelManage\bin\DAL.dll
+H:\宾馆管理系统\HotelManage\HotelManage\bin\BLL.pdb
+H:\宾馆管理系统\HotelManage\HotelManage\bin\DAL.pdb
+H:\宾馆管理系统\HotelManage\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+H:\宾馆管理系统\HotelManage\HotelManage\obj\Debug\HotelManage.dll
+H:\宾馆管理系统\HotelManage\HotelManage\obj\Debug\HotelManage.pdb
+E:\HotelManage\HotelManage\bin\HotelManage.dll
+E:\HotelManage\HotelManage\bin\HotelManage.pdb
+E:\HotelManage\HotelManage\bin\BLL.dll
+E:\HotelManage\HotelManage\bin\DAL.dll
+E:\HotelManage\HotelManage\bin\BLL.pdb
+E:\HotelManage\HotelManage\bin\DAL.pdb
+E:\HotelManage\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\HotelManage\HotelManage\obj\Debug\HotelManage.dll
+E:\HotelManage\HotelManage\obj\Debug\HotelManage.pdb
+H:\宾馆管理系统\HotelManage03311\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+H:\宾馆管理系统\HotelManage03311\HotelManage\obj\Debug\HotelManage.dll
+H:\宾馆管理系统\HotelManage03311\HotelManage\obj\Debug\HotelManage.pdb
+H:\宾馆管理系统\HotelManage03311\HotelManage\bin\HotelManage.dll
+H:\宾馆管理系统\HotelManage03311\HotelManage\bin\HotelManage.pdb
+H:\宾馆管理系统\HotelManage03311\HotelManage\bin\BLL.dll
+H:\宾馆管理系统\HotelManage03311\HotelManage\bin\DAL.dll
+H:\宾馆管理系统\HotelManage03311\HotelManage\bin\BLL.pdb
+H:\宾馆管理系统\HotelManage03311\HotelManage\bin\DAL.pdb
+E:\酒店项目\新建文件夹\HotelManage\bin\HotelManage.dll
+E:\酒店项目\新建文件夹\HotelManage\bin\HotelManage.pdb
+E:\酒店项目\新建文件夹\HotelManage\bin\BLL.dll
+E:\酒店项目\新建文件夹\HotelManage\bin\DAL.dll
+E:\酒店项目\新建文件夹\HotelManage\bin\BLL.pdb
+E:\酒店项目\新建文件夹\HotelManage\bin\DAL.pdb
+E:\酒店项目\新建文件夹\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\酒店项目\新建文件夹\HotelManage\obj\Debug\HotelManage.dll
+E:\酒店项目\新建文件夹\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\HotelManage\obj\Debug\HotelManage.pdb
+E:\新建文件夹\HotelManage\bin\HotelManage.dll
+E:\新建文件夹\HotelManage\bin\HotelManage.pdb
+E:\新建文件夹\HotelManage\bin\BLL.dll
+E:\新建文件夹\HotelManage\bin\DAL.dll
+E:\新建文件夹\HotelManage\bin\BLL.pdb
+E:\新建文件夹\HotelManage\bin\DAL.pdb
+E:\新建文件夹\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹\HotelManage\obj\Debug\HotelManage.dll
+E:\新建文件夹\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\HotelManage\obj\Debug\HotelManage.pdb
+E:\搁浅地理 一一要二楼三\HotelManage\bin\HotelManage.dll
+E:\搁浅地理 一一要二楼三\HotelManage\bin\HotelManage.pdb
+E:\搁浅地理 一一要二楼三\HotelManage\bin\BLL.dll
+E:\搁浅地理 一一要二楼三\HotelManage\bin\DAL.dll
+E:\搁浅地理 一一要二楼三\HotelManage\bin\BLL.pdb
+E:\搁浅地理 一一要二楼三\HotelManage\bin\DAL.pdb
+E:\搁浅地理 一一要二楼三\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\搁浅地理 一一要二楼三\HotelManage\obj\Debug\HotelManage.dll
+E:\搁浅地理 一一要二楼三\HotelManage\obj\Debug\HotelManage.pdb
+J:\最新宾馆项目\搁浅地理 一一要二楼三\HotelManage\bin\HotelManage.dll
+J:\最新宾馆项目\搁浅地理 一一要二楼三\HotelManage\bin\HotelManage.pdb
+J:\最新宾馆项目\搁浅地理 一一要二楼三\HotelManage\bin\BLL.dll
+J:\最新宾馆项目\搁浅地理 一一要二楼三\HotelManage\bin\DAL.dll
+J:\最新宾馆项目\搁浅地理 一一要二楼三\HotelManage\bin\BLL.pdb
+J:\最新宾馆项目\搁浅地理 一一要二楼三\HotelManage\bin\DAL.pdb
+J:\最新宾馆项目\搁浅地理 一一要二楼三\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+J:\最新宾馆项目\搁浅地理 一一要二楼三\HotelManage\obj\Debug\HotelManage.dll
+J:\最新宾馆项目\搁浅地理 一一要二楼三\HotelManage\obj\Debug\HotelManage.pdb
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\HotelManage\bin\HotelManage.dll
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\HotelManage\bin\HotelManage.pdb
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\HotelManage\bin\BLL.dll
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\HotelManage\bin\DAL.dll
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\HotelManage\bin\BLL.pdb
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\HotelManage\bin\DAL.pdb
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\HotelManage\obj\Debug\HotelManage.dll
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\HotelManage\obj\Debug\HotelManage.pdb
+E:\0417\121\HotelManage\bin\HotelManage.dll
+E:\0417\121\HotelManage\bin\HotelManage.pdb
+E:\0417\121\HotelManage\bin\BLL.dll
+E:\0417\121\HotelManage\bin\DAL.dll
+E:\0417\121\HotelManage\bin\BLL.pdb
+E:\0417\121\HotelManage\bin\DAL.pdb
+E:\0417\121\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\0417\121\HotelManage\obj\Debug\HotelManage.dll
+E:\0417\121\HotelManage\obj\Debug\HotelManage.pdb
+E:\0420\121\HotelManage\bin\HotelManage.dll
+E:\0420\121\HotelManage\bin\HotelManage.pdb
+E:\0420\121\HotelManage\bin\BLL.dll
+E:\0420\121\HotelManage\bin\DAL.dll
+E:\0420\121\HotelManage\bin\BLL.pdb
+E:\0420\121\HotelManage\bin\DAL.pdb
+E:\0420\121\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\0420\121\HotelManage\obj\Debug\HotelManage.dll
+E:\0420\121\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\4.21\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\4.21\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\4.21\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\4.21\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.21\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\4.21\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.21\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4.21\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\4.21\HotelManage\obj\Debug\HotelManage.pdb
+E:\4.21\HotelManage\bin\HotelManage.dll
+E:\4.21\HotelManage\bin\HotelManage.pdb
+E:\4.21\HotelManage\bin\BLL.dll
+E:\4.21\HotelManage\bin\DAL.dll
+E:\4.21\HotelManage\bin\BLL.pdb
+E:\4.21\HotelManage\bin\DAL.pdb
+E:\4.21\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\4.21\HotelManage\obj\Debug\HotelManage.dll
+E:\4.21\HotelManage\obj\Debug\HotelManage.pdb
+E:\4.22\4.21\HotelManage\bin\HotelManage.dll
+E:\4.22\4.21\HotelManage\bin\HotelManage.pdb
+E:\4.22\4.21\HotelManage\bin\BLL.dll
+E:\4.22\4.21\HotelManage\bin\DAL.dll
+E:\4.22\4.21\HotelManage\bin\BLL.pdb
+E:\4.22\4.21\HotelManage\bin\DAL.pdb
+E:\4.22\4.21\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\4.22\4.21\HotelManage\obj\Debug\HotelManage.dll
+E:\4.22\4.21\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\HotelManage\obj\Debug\HotelManage.pdb
+E:\4.24\HotelManage\bin\HotelManage.dll
+E:\4.24\HotelManage\bin\HotelManage.pdb
+E:\4.24\HotelManage\bin\BLL.dll
+E:\4.24\HotelManage\bin\DAL.dll
+E:\4.24\HotelManage\bin\BLL.pdb
+E:\4.24\HotelManage\bin\DAL.pdb
+E:\4.24\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\4.24\HotelManage\obj\Debug\HotelManage.dll
+E:\4.24\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\HotelManage\obj\Debug\HotelManage.pdb
+E:\4.24444444444444444444\HotelManage\bin\HotelManage.dll
+E:\4.24444444444444444444\HotelManage\bin\HotelManage.pdb
+E:\4.24444444444444444444\HotelManage\bin\BLL.dll
+E:\4.24444444444444444444\HotelManage\bin\DAL.dll
+E:\4.24444444444444444444\HotelManage\bin\BLL.pdb
+E:\4.24444444444444444444\HotelManage\bin\DAL.pdb
+E:\4.24444444444444444444\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\4.24444444444444444444\HotelManage\obj\Debug\HotelManage.dll
+E:\4.24444444444444444444\HotelManage\obj\Debug\HotelManage.pdb
+E:\4.28\HotelManage\bin\HotelManage.dll
+E:\4.28\HotelManage\bin\HotelManage.pdb
+E:\4.28\HotelManage\bin\BLL.dll
+E:\4.28\HotelManage\bin\DAL.dll
+E:\4.28\HotelManage\bin\BLL.pdb
+E:\4.28\HotelManage\bin\DAL.pdb
+E:\4.28\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\4.28\HotelManage\obj\Debug\HotelManage.dll
+E:\4.28\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\4.29\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\4.29\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\4.29\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\4.29\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.29\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\4.29\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.29\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4.29\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\4.29\HotelManage\obj\Debug\HotelManage.pdb
+E:\5.4\HotelManage\bin\HotelManage.dll
+E:\5.4\HotelManage\bin\HotelManage.pdb
+E:\5.4\HotelManage\bin\BLL.dll
+E:\5.4\HotelManage\bin\DAL.dll
+E:\5.4\HotelManage\bin\BLL.pdb
+E:\5.4\HotelManage\bin\DAL.pdb
+E:\5.4\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\5.4\HotelManage\obj\Debug\HotelManage.dll
+E:\5.4\HotelManage\obj\Debug\HotelManage.pdb
+E:\5.5\HotelManage\bin\HotelManage.dll
+E:\5.5\HotelManage\bin\HotelManage.pdb
+E:\5.5\HotelManage\bin\BLL.dll
+E:\5.5\HotelManage\bin\DAL.dll
+E:\5.5\HotelManage\bin\BLL.pdb
+E:\5.5\HotelManage\bin\DAL.pdb
+E:\5.5\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\5.5\HotelManage\obj\Debug\HotelManage.dll
+E:\5.5\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\5.5555\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\5.5555\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\5.5555\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\5.5555\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.5555\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\5.5555\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.5555\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\5.5555\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\5.5555\HotelManage\obj\Debug\HotelManage.pdb
+E:\5.6\5.5555\HotelManage\bin\HotelManage.dll
+E:\5.6\5.5555\HotelManage\bin\HotelManage.pdb
+E:\5.6\5.5555\HotelManage\bin\BLL.dll
+E:\5.6\5.5555\HotelManage\bin\DAL.dll
+E:\5.6\5.5555\HotelManage\bin\BLL.pdb
+E:\5.6\5.5555\HotelManage\bin\DAL.pdb
+E:\5.6\5.5555\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\5.6\5.5555\HotelManage\obj\Debug\HotelManage.dll
+E:\5.6\5.5555\HotelManage\obj\Debug\HotelManage.pdb
+E:\5.66666\5.6\5.5555\HotelManage\bin\HotelManage.dll
+E:\5.66666\5.6\5.5555\HotelManage\bin\HotelManage.pdb
+E:\5.66666\5.6\5.5555\HotelManage\bin\BLL.dll
+E:\5.66666\5.6\5.5555\HotelManage\bin\DAL.dll
+E:\5.66666\5.6\5.5555\HotelManage\bin\BLL.pdb
+E:\5.66666\5.6\5.5555\HotelManage\bin\DAL.pdb
+E:\5.66666\5.6\5.5555\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\5.66666\5.6\5.5555\HotelManage\obj\Debug\HotelManage.dll
+E:\5.66666\5.6\5.5555\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\88888\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\88888\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\88888\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\88888\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\88888\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\88888\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\88888\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\88888\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\88888\HotelManage\obj\Debug\HotelManage.pdb
+E:\9999999999999\88888\HotelManage\bin\HotelManage.dll
+E:\9999999999999\88888\HotelManage\bin\HotelManage.pdb
+E:\9999999999999\88888\HotelManage\bin\BLL.dll
+E:\9999999999999\88888\HotelManage\bin\DAL.dll
+E:\9999999999999\88888\HotelManage\bin\BLL.pdb
+E:\9999999999999\88888\HotelManage\bin\DAL.pdb
+E:\9999999999999\88888\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\9999999999999\88888\HotelManage\obj\Debug\HotelManage.dll
+E:\9999999999999\88888\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\5.8\88888\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\5.8\88888\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\5.8\88888\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\5.8\88888\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.8\88888\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\5.8\88888\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.8\88888\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\5.8\88888\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\5.8\88888\HotelManage\obj\Debug\HotelManage.pdb
+E:\5.11\HotelManage\bin\HotelManage.dll
+E:\5.11\HotelManage\bin\HotelManage.pdb
+E:\5.11\HotelManage\bin\BLL.dll
+E:\5.11\HotelManage\bin\DAL.dll
+E:\5.11\HotelManage\bin\BLL.pdb
+E:\5.11\HotelManage\bin\DAL.pdb
+E:\5.11\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\5.11\HotelManage\obj\Debug\HotelManage.dll
+E:\5.11\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\5.11\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\5.11\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\5.11\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\5.11\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.11\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\5.11\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.11\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\5.11\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\5.11\HotelManage\obj\Debug\HotelManage.pdb
+E:\5.12\HotelManage\bin\HotelManage.dll
+E:\5.12\HotelManage\bin\HotelManage.pdb
+E:\5.12\HotelManage\bin\BLL.dll
+E:\5.12\HotelManage\bin\DAL.dll
+E:\5.12\HotelManage\bin\BLL.pdb
+E:\5.12\HotelManage\bin\DAL.pdb
+E:\5.12\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\5.12\HotelManage\obj\Debug\HotelManage.dll
+E:\5.12\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\HotelManage\obj\Debug\HotelManage.pdb
+E:\5.13\HotelManage\bin\HotelManage.dll
+E:\5.13\HotelManage\bin\HotelManage.pdb
+E:\5.13\HotelManage\bin\BLL.dll
+E:\5.13\HotelManage\bin\DAL.dll
+E:\5.13\HotelManage\bin\BLL.pdb
+E:\5.13\HotelManage\bin\DAL.pdb
+E:\5.13\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+E:\5.13\HotelManage\obj\Debug\HotelManage.dll
+E:\5.13\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\5.13wan\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\5.13wan\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\5.13wan\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\5.13wan\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.13wan\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\5.13wan\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.13wan\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\5.13wan\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\5.13wan\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\HotelManage\obj\Debug\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\HotelManage\bin\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\HotelManage\bin\HotelManage.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\HotelManage\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\HotelManage\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\HotelManage\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\HotelManage\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\HotelManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\HotelManage\obj\Debug\HotelManage.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\HotelManage\obj\Debug\HotelManage.pdb

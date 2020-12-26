@@ -1,0 +1,185 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\DAL\bin\Debug\DAL.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\DAL\bin\Debug\DAL.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\DAL\obj\Debug\DAL.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\DAL\obj\Debug\DAL.pdb
+H:\宾馆管理系统\HotelManage\DAL\bin\Debug\DAL.dll
+H:\宾馆管理系统\HotelManage\DAL\bin\Debug\DAL.pdb
+H:\宾馆管理系统\HotelManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\宾馆管理系统\HotelManage\DAL\obj\Debug\DAL.dll
+H:\宾馆管理系统\HotelManage\DAL\obj\Debug\DAL.pdb
+E:\酒店项目\新建文件夹\DAL\bin\Debug\DAL.dll
+E:\酒店项目\新建文件夹\DAL\bin\Debug\DAL.pdb
+E:\酒店项目\新建文件夹\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\酒店项目\新建文件夹\DAL\obj\Debug\DAL.dll
+E:\酒店项目\新建文件夹\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\DAL\obj\Debug\DAL.pdb
+E:\新建文件夹\DAL\bin\Debug\DAL.dll
+E:\新建文件夹\DAL\bin\Debug\DAL.pdb
+E:\新建文件夹\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹\DAL\obj\Debug\DAL.dll
+E:\新建文件夹\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\DAL\obj\Debug\DAL.pdb
+E:\搁浅地理 一一要二楼三\DAL\bin\Debug\DAL.dll
+E:\搁浅地理 一一要二楼三\DAL\bin\Debug\DAL.pdb
+E:\搁浅地理 一一要二楼三\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\搁浅地理 一一要二楼三\DAL\obj\Debug\DAL.dll
+E:\搁浅地理 一一要二楼三\DAL\obj\Debug\DAL.pdb
+J:\最新宾馆项目\搁浅地理 一一要二楼三\DAL\bin\Debug\DAL.dll
+J:\最新宾馆项目\搁浅地理 一一要二楼三\DAL\bin\Debug\DAL.pdb
+J:\最新宾馆项目\搁浅地理 一一要二楼三\DAL\obj\Debug\ResolveAssemblyReference.cache
+J:\最新宾馆项目\搁浅地理 一一要二楼三\DAL\obj\Debug\DAL.dll
+J:\最新宾馆项目\搁浅地理 一一要二楼三\DAL\obj\Debug\DAL.pdb
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\DAL\bin\Debug\DAL.dll
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\DAL\bin\Debug\DAL.pdb
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\DAL\obj\Debug\DAL.dll
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\DAL\obj\Debug\DAL.pdb
+E:\0417\121\DAL\bin\Debug\DAL.dll
+E:\0417\121\DAL\bin\Debug\DAL.pdb
+E:\0417\121\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\0417\121\DAL\obj\Debug\DAL.dll
+E:\0417\121\DAL\obj\Debug\DAL.pdb
+E:\0420\121\DAL\bin\Debug\DAL.dll
+E:\0420\121\DAL\bin\Debug\DAL.pdb
+E:\0420\121\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\0420\121\DAL\obj\Debug\DAL.dll
+E:\0420\121\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.21\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.21\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.21\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4.21\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.21\DAL\obj\Debug\DAL.pdb
+E:\4.21\DAL\bin\Debug\DAL.dll
+E:\4.21\DAL\bin\Debug\DAL.pdb
+E:\4.21\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\4.21\DAL\obj\Debug\DAL.dll
+E:\4.21\DAL\obj\Debug\DAL.pdb
+E:\4.22\4.21\DAL\bin\Debug\DAL.dll
+E:\4.22\4.21\DAL\bin\Debug\DAL.pdb
+E:\4.22\4.21\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\4.22\4.21\DAL\obj\Debug\DAL.dll
+E:\4.22\4.21\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\DAL\obj\Debug\DAL.pdb
+E:\4.24\DAL\bin\Debug\DAL.dll
+E:\4.24\DAL\bin\Debug\DAL.pdb
+E:\4.24\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\4.24\DAL\obj\Debug\DAL.dll
+E:\4.24\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\DAL\obj\Debug\DAL.pdb
+E:\4.24444444444444444444\DAL\bin\Debug\DAL.dll
+E:\4.24444444444444444444\DAL\bin\Debug\DAL.pdb
+E:\4.24444444444444444444\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\4.24444444444444444444\DAL\obj\Debug\DAL.dll
+E:\4.24444444444444444444\DAL\obj\Debug\DAL.pdb
+E:\4.28\DAL\bin\Debug\DAL.dll
+E:\4.28\DAL\bin\Debug\DAL.pdb
+E:\4.28\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\4.28\DAL\obj\Debug\DAL.dll
+E:\4.28\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.29\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.29\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.29\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4.29\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.29\DAL\obj\Debug\DAL.pdb
+E:\5.4\DAL\bin\Debug\DAL.dll
+E:\5.4\DAL\bin\Debug\DAL.pdb
+E:\5.4\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.4\DAL\obj\Debug\DAL.dll
+E:\5.4\DAL\obj\Debug\DAL.pdb
+E:\5.5\DAL\bin\Debug\DAL.dll
+E:\5.5\DAL\bin\Debug\DAL.pdb
+E:\5.5\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.5\DAL\obj\Debug\DAL.dll
+E:\5.5\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.5555\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.5555\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.5555\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\5.5555\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.5555\DAL\obj\Debug\DAL.pdb
+E:\5.6\5.5555\DAL\bin\Debug\DAL.dll
+E:\5.6\5.5555\DAL\bin\Debug\DAL.pdb
+E:\5.6\5.5555\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.6\5.5555\DAL\obj\Debug\DAL.dll
+E:\5.6\5.5555\DAL\obj\Debug\DAL.pdb
+E:\5.66666\5.6\5.5555\DAL\bin\Debug\DAL.dll
+E:\5.66666\5.6\5.5555\DAL\bin\Debug\DAL.pdb
+E:\5.66666\5.6\5.5555\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.66666\5.6\5.5555\DAL\obj\Debug\DAL.dll
+E:\5.66666\5.6\5.5555\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\88888\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\88888\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\88888\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\88888\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\88888\DAL\obj\Debug\DAL.pdb
+E:\9999999999999\88888\DAL\bin\Debug\DAL.dll
+E:\9999999999999\88888\DAL\bin\Debug\DAL.pdb
+E:\9999999999999\88888\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\9999999999999\88888\DAL\obj\Debug\DAL.dll
+E:\9999999999999\88888\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.8\88888\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.8\88888\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.8\88888\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\5.8\88888\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.8\88888\DAL\obj\Debug\DAL.pdb
+E:\5.11\DAL\bin\Debug\DAL.dll
+E:\5.11\DAL\bin\Debug\DAL.pdb
+E:\5.11\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.11\DAL\obj\Debug\DAL.dll
+E:\5.11\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.11\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.11\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.11\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\5.11\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.11\DAL\obj\Debug\DAL.pdb
+E:\5.12\DAL\bin\Debug\DAL.dll
+E:\5.12\DAL\bin\Debug\DAL.pdb
+E:\5.12\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.12\DAL\obj\Debug\DAL.dll
+E:\5.12\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\DAL\obj\Debug\DAL.pdb
+E:\5.13\DAL\bin\Debug\DAL.dll
+E:\5.13\DAL\bin\Debug\DAL.pdb
+E:\5.13\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.13\DAL\obj\Debug\DAL.dll
+E:\5.13\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.13wan\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.13wan\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.13wan\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\5.13wan\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.13wan\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\DAL\obj\Debug\DAL.pdb

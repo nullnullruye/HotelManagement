@@ -1,0 +1,259 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\BLL\bin\Debug\BLL.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\BLL\bin\Debug\BLL.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\BLL\bin\Debug\DAL.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\BLL\bin\Debug\DAL.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\BLL\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\BLL\obj\Debug\BLL.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\HotelManage\BLL\obj\Debug\BLL.pdb
+H:\宾馆管理系统\HotelManage\BLL\bin\Debug\BLL.dll
+H:\宾馆管理系统\HotelManage\BLL\bin\Debug\BLL.pdb
+H:\宾馆管理系统\HotelManage\BLL\bin\Debug\DAL.dll
+H:\宾馆管理系统\HotelManage\BLL\bin\Debug\DAL.pdb
+H:\宾馆管理系统\HotelManage\BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\宾馆管理系统\HotelManage\BLL\obj\Debug\BLL.dll
+H:\宾馆管理系统\HotelManage\BLL\obj\Debug\BLL.pdb
+E:\酒店项目\新建文件夹\BLL\bin\Debug\BLL.dll
+E:\酒店项目\新建文件夹\BLL\bin\Debug\BLL.pdb
+E:\酒店项目\新建文件夹\BLL\bin\Debug\DAL.dll
+E:\酒店项目\新建文件夹\BLL\bin\Debug\DAL.pdb
+E:\酒店项目\新建文件夹\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\酒店项目\新建文件夹\BLL\obj\Debug\BLL.dll
+E:\酒店项目\新建文件夹\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\酒店项目0402\酒店项目\新建文件夹\BLL\obj\Debug\BLL.pdb
+E:\新建文件夹\BLL\bin\Debug\BLL.dll
+E:\新建文件夹\BLL\bin\Debug\BLL.pdb
+E:\新建文件夹\BLL\bin\Debug\DAL.dll
+E:\新建文件夹\BLL\bin\Debug\DAL.pdb
+E:\新建文件夹\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹\BLL\obj\Debug\BLL.dll
+E:\新建文件夹\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\123\新建文件夹\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\搁浅地理 一一要二楼三\BLL\obj\Debug\BLL.pdb
+E:\搁浅地理 一一要二楼三\BLL\bin\Debug\BLL.dll
+E:\搁浅地理 一一要二楼三\BLL\bin\Debug\BLL.pdb
+E:\搁浅地理 一一要二楼三\BLL\bin\Debug\DAL.dll
+E:\搁浅地理 一一要二楼三\BLL\bin\Debug\DAL.pdb
+E:\搁浅地理 一一要二楼三\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\搁浅地理 一一要二楼三\BLL\obj\Debug\BLL.dll
+E:\搁浅地理 一一要二楼三\BLL\obj\Debug\BLL.pdb
+J:\最新宾馆项目\搁浅地理 一一要二楼三\BLL\bin\Debug\BLL.dll
+J:\最新宾馆项目\搁浅地理 一一要二楼三\BLL\bin\Debug\BLL.pdb
+J:\最新宾馆项目\搁浅地理 一一要二楼三\BLL\bin\Debug\DAL.dll
+J:\最新宾馆项目\搁浅地理 一一要二楼三\BLL\bin\Debug\DAL.pdb
+J:\最新宾馆项目\搁浅地理 一一要二楼三\BLL\obj\Debug\ResolveAssemblyReference.cache
+J:\最新宾馆项目\搁浅地理 一一要二楼三\BLL\obj\Debug\BLL.dll
+J:\最新宾馆项目\搁浅地理 一一要二楼三\BLL\obj\Debug\BLL.pdb
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\BLL\bin\Debug\BLL.dll
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\BLL\bin\Debug\BLL.pdb
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\BLL\bin\Debug\DAL.dll
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\BLL\bin\Debug\DAL.pdb
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\BLL\obj\Debug\BLL.dll
+E:\新建文件夹\4.16\搁浅地理 一一要二楼三\BLL\obj\Debug\BLL.pdb
+E:\0417\121\BLL\bin\Debug\BLL.dll
+E:\0417\121\BLL\bin\Debug\BLL.pdb
+E:\0417\121\BLL\bin\Debug\DAL.dll
+E:\0417\121\BLL\bin\Debug\DAL.pdb
+E:\0417\121\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\0417\121\BLL\obj\Debug\BLL.dll
+E:\0417\121\BLL\obj\Debug\BLL.pdb
+E:\0420\121\BLL\bin\Debug\BLL.dll
+E:\0420\121\BLL\bin\Debug\BLL.pdb
+E:\0420\121\BLL\bin\Debug\DAL.dll
+E:\0420\121\BLL\bin\Debug\DAL.pdb
+E:\0420\121\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\0420\121\BLL\obj\Debug\BLL.dll
+E:\0420\121\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\4.21\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\4.21\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\4.21\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.21\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.21\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4.21\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\4.21\BLL\obj\Debug\BLL.pdb
+E:\4.21\BLL\bin\Debug\BLL.dll
+E:\4.21\BLL\bin\Debug\BLL.pdb
+E:\4.21\BLL\bin\Debug\DAL.dll
+E:\4.21\BLL\bin\Debug\DAL.pdb
+E:\4.21\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\4.21\BLL\obj\Debug\BLL.dll
+E:\4.21\BLL\obj\Debug\BLL.pdb
+E:\4.22\4.21\BLL\bin\Debug\BLL.dll
+E:\4.22\4.21\BLL\bin\Debug\BLL.pdb
+E:\4.22\4.21\BLL\bin\Debug\DAL.dll
+E:\4.22\4.21\BLL\bin\Debug\DAL.pdb
+E:\4.22\4.21\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\4.22\4.21\BLL\obj\Debug\BLL.dll
+E:\4.22\4.21\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\4.222222\4.22\4.21\BLL\obj\Debug\BLL.pdb
+E:\4.24\BLL\bin\Debug\BLL.dll
+E:\4.24\BLL\bin\Debug\BLL.pdb
+E:\4.24\BLL\bin\Debug\DAL.dll
+E:\4.24\BLL\bin\Debug\DAL.pdb
+E:\4.24\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\4.24\BLL\obj\Debug\BLL.dll
+E:\4.24\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\4.24444444444444444444\BLL\obj\Debug\BLL.pdb
+E:\4.24444444444444444444\BLL\bin\Debug\BLL.dll
+E:\4.24444444444444444444\BLL\bin\Debug\BLL.pdb
+E:\4.24444444444444444444\BLL\bin\Debug\DAL.dll
+E:\4.24444444444444444444\BLL\bin\Debug\DAL.pdb
+E:\4.24444444444444444444\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\4.24444444444444444444\BLL\obj\Debug\BLL.dll
+E:\4.24444444444444444444\BLL\obj\Debug\BLL.pdb
+E:\4.28\BLL\bin\Debug\BLL.dll
+E:\4.28\BLL\bin\Debug\BLL.pdb
+E:\4.28\BLL\bin\Debug\DAL.dll
+E:\4.28\BLL\bin\Debug\DAL.pdb
+E:\4.28\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\4.28\BLL\obj\Debug\BLL.dll
+E:\4.28\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\4.29\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\4.29\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\4.29\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\4.29\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\4.29\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4.29\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\4.29\BLL\obj\Debug\BLL.pdb
+E:\5.4\BLL\bin\Debug\BLL.dll
+E:\5.4\BLL\bin\Debug\BLL.pdb
+E:\5.4\BLL\bin\Debug\DAL.dll
+E:\5.4\BLL\bin\Debug\DAL.pdb
+E:\5.4\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.4\BLL\obj\Debug\BLL.dll
+E:\5.4\BLL\obj\Debug\BLL.pdb
+E:\5.5\BLL\bin\Debug\BLL.dll
+E:\5.5\BLL\bin\Debug\BLL.pdb
+E:\5.5\BLL\bin\Debug\DAL.dll
+E:\5.5\BLL\bin\Debug\DAL.pdb
+E:\5.5\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.5\BLL\obj\Debug\BLL.dll
+E:\5.5\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\5.5555\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\5.5555\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\5.5555\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.5555\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.5555\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\5.5555\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\5.5555\BLL\obj\Debug\BLL.pdb
+E:\5.6\5.5555\BLL\bin\Debug\BLL.dll
+E:\5.6\5.5555\BLL\bin\Debug\BLL.pdb
+E:\5.6\5.5555\BLL\bin\Debug\DAL.dll
+E:\5.6\5.5555\BLL\bin\Debug\DAL.pdb
+E:\5.6\5.5555\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.6\5.5555\BLL\obj\Debug\BLL.dll
+E:\5.6\5.5555\BLL\obj\Debug\BLL.pdb
+E:\5.66666\5.6\5.5555\BLL\bin\Debug\BLL.dll
+E:\5.66666\5.6\5.5555\BLL\bin\Debug\BLL.pdb
+E:\5.66666\5.6\5.5555\BLL\bin\Debug\DAL.dll
+E:\5.66666\5.6\5.5555\BLL\bin\Debug\DAL.pdb
+E:\5.66666\5.6\5.5555\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.66666\5.6\5.5555\BLL\obj\Debug\BLL.dll
+E:\5.66666\5.6\5.5555\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\88888\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\88888\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\88888\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\88888\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\88888\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\88888\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\88888\BLL\obj\Debug\BLL.pdb
+E:\9999999999999\88888\BLL\bin\Debug\BLL.dll
+E:\9999999999999\88888\BLL\bin\Debug\BLL.pdb
+E:\9999999999999\88888\BLL\bin\Debug\DAL.dll
+E:\9999999999999\88888\BLL\bin\Debug\DAL.pdb
+E:\9999999999999\88888\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\9999999999999\88888\BLL\obj\Debug\BLL.dll
+E:\9999999999999\88888\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\5.8\88888\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\5.8\88888\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\5.8\88888\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.8\88888\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.8\88888\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\5.8\88888\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\5.8\88888\BLL\obj\Debug\BLL.pdb
+E:\5.11\BLL\bin\Debug\BLL.dll
+E:\5.11\BLL\bin\Debug\BLL.pdb
+E:\5.11\BLL\bin\Debug\DAL.dll
+E:\5.11\BLL\bin\Debug\DAL.pdb
+E:\5.11\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.11\BLL\obj\Debug\BLL.dll
+E:\5.11\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\5.11\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\5.11\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\5.11\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.11\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.11\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\5.11\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\5.11\BLL\obj\Debug\BLL.pdb
+E:\5.12\BLL\bin\Debug\BLL.dll
+E:\5.12\BLL\bin\Debug\BLL.pdb
+E:\5.12\BLL\bin\Debug\DAL.dll
+E:\5.12\BLL\bin\Debug\DAL.pdb
+E:\5.12\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.12\BLL\obj\Debug\BLL.dll
+E:\5.12\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\BLL\obj\Debug\BLL.pdb
+E:\5.13\BLL\bin\Debug\BLL.dll
+E:\5.13\BLL\bin\Debug\BLL.pdb
+E:\5.13\BLL\bin\Debug\DAL.dll
+E:\5.13\BLL\bin\Debug\DAL.pdb
+E:\5.13\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\5.13\BLL\obj\Debug\BLL.dll
+E:\5.13\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\5.13wan\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\5.13wan\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\5.13wan\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\5.13wan\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\5.13wan\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\5.13wan\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\5.13wan\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\荆楚酒店管理系统\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理系统\荆楚酒店管理系统\BLL\obj\Debug\BLL.pdb
